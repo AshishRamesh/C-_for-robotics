@@ -25,3 +25,4 @@ void print(list<int> num_list){
     cout<<endl;
 
 }
+// update for today
